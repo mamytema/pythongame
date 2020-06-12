@@ -1,4 +1,4 @@
-PYTHON IDLE GAME V.0.0.1-indev
+PYTHON IDLE GAME V.0.0.2-indev
 This is a mainly test game.
 Please see the FAQ if you have any questions.
 
