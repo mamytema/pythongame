@@ -1,12 +1,21 @@
-PYTHON IDLE GAME V.0.0.2-indev
+PYTHON IDLE GAME V.0.0.3-indev
 This is a mainly test game.
 Please see the FAQ if you have any questions.
 
 To start the game: double click start.py file
 
 UPDATES:
+v.0.0.3
++ 2 new upgrades
++ debug menu
++ new loading and saving format
++ redid most of the game code
+v.0.0.2
++ alot of bug fixes
++ help menu
 v.0.0.1
-+game opened to github in a private project.
++ game opened to github in a private project.
+
 
 CREDITS:
 mamytema - making this game
